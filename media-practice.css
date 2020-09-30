@@ -3,6 +3,28 @@
 	background-size: cover;
     background-position: center;
     background-image: ;
+    background-color: pink;
+}
+
+.user-box{
+	width:540px;
+	height:540px;
+}
+.user-slide{
+	height:80%;
+	width:80%;
+	border-radius:50%;
+	margin: 50px 50px;
+	background-color: rgba( 0, 0, 0, 0.5);
+	background-position: center;
+	text-align:center;
+	background-color:red;
+}
+.user-slide-text{
+	margin: 120px auto;
+	height:200px;
+	width:300px;
+	color:white;
 }
 
 @media screen and (max-width:425px) {
