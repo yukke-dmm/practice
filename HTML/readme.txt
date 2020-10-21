@@ -1,2 +1,5 @@
 test
 どれだけの文章が登録できるのか調べる。今はgitの復習中echoの使い道をやっと理解した気がするw　
+reset
+hoge
+hogehoge
